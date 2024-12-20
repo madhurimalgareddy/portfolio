@@ -32,14 +32,14 @@ projects:
   summary: Every week, the same problem arose at the local grocery store either the shelves were emptied too quickly, leaving customers disappointed, or excess stock remained unsold, leading to waste. The question was clear—how could customer demand be predicted more accurately?.
   tags: ["academic",  "forecasting"]
 
-- name: Tensorflow
+- name: Prediction of CLABSI in patients admitted to Texas Children Hospital
   logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+  #role: Developer
+  #timeline: "Jun 2018 - Present"
+  repo: https://github.com/madhurimalgareddy/CLABSI-prediction
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning"]
+  summary: Central Line-Associated Bloodstream Infections (CLABSIs) are serious infections that occur when germs (bacteria or fungi) enter the bloodstream through a central line, which is a catheter placed in a large vein. Central lines are often used in hospitals to deliver medications, fluids, or nutrition, or to draw blood over an extended period. We had an opportunity to perform EDA on the patients data provided by Texas Children Hospital and further create a plan for modeling and evaluation of metrics.
+  tags: ["academic", "machine-learning"]
 
 - name: A sample academic paper
   role: Team Lead
@@ -48,14 +48,14 @@ projects:
   summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
   tags: ["academic","iot"]
 
-- name: Nocode
+- name: Predicting Customer's behaviour towards purchase of vehicle insurance
   logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+  #role: Nothing
+  #timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/madhurimalgareddy/Prediction-of-insurance-subscription-using-Random-Forest
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status. 
+  tags: ["academic", "machine learning"]
 
 - name: Toha
   logo: /images/sections/projects/toha.png
