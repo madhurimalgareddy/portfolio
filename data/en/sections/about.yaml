@@ -19,51 +19,41 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I have 3 years of experience in providing data driven solutions to 2 Fortune 500 companies. My desire to keep myself updated all the time led me to pursue Masters in Business Analytics at UT Austin. I am excited to combine my experience and knowledge from Grad school in dealing with real life problems. I have written multiple blog posts in Towards Data Science publication of medium.com and on this website on various machine learning concepts to extend my contribution to the data science community.
-
-I am an avid reader and my interests lie in non-fiction works such as biographies, science, psychology and history. Travelling to new places, meeting new people and sketching for fun are some things that I am always excited about.'
+summary: 'Dynamic MBA Finance professional with 2.5 years of experience as a ML Data Associate at Amazon, currently pursuing a graduate degree in Business Analytics. Passionate about leveraging analytical skills to drive business insights and aspiring to transition into roles as a Business Analyst, Data Analyst, Business Intelligence Analyst.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "madhurireddymalga@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
-
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
+  url: "https://github.com/madhurimalgareddy/"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/madhuri-malgareddy-/"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
+# - name: Facebook
+#   icon: "fab fa-facebook"
+#   url: "#"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
+# - name: Mastadon
+#   icon: "fab fa-mastodon"
+#   url: "#"
+#   rel: "me noopener"
 
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
-
-- name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+# - name: ResearchGate
+#   icon: "fab fa-researchgate"
+#   url: "https://www.researchgate.net/profile/john-doe"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/resume.pdf"
+  url: "files/Madhuri Resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
