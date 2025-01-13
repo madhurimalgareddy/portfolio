@@ -22,37 +22,45 @@ buttons:
 # your projects
 projects:
 - name: NYC Taxi Data Visualization
-  # logo: /images/sections/projects/kubernetes.png
+  # logo: /images/sections/projects/nyc_2.jpg
   # role: Contributor
   # timeline: "March 2018 - Present"
   repo: https://github.com/madhurimalgareddy/nyc_taxi_analysis # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: This project involves processing and analyzing NYC Taxi data to gain insights into ride patterns, passenger behavior, and geographic trends. The processed data is visualized in an interactive Tableau dashboard to help users draw actionable conclusions. The workflow integrates data orchestration, transformation, and visualization layers, emphasizing scalability and automation.
-  tags: ["data_viz",  "forecasting"]
+  summary: >
+    ![forecasting](images/sections/projects/nyc_2.jpg)
+    This project involves processing and analyzing NYC Taxi data to gain insights into ride patterns, passenger behavior, and geographic trends. The processed data is visualized in an interactive Tableau dashboard to help users draw actionable conclusions. The workflow integrates data orchestration, transformation, and visualization layers, emphasizing scalability and automation.
+  tags: ["data_viz"]
 
 - name: Customer Demand Forecasting
-  # logo: /images/sections/projects/kubernetes.png
+  # logo: /images/sections/projects/wilkins_3.jpg
   # role: Contributor
   # timeline: "March 2018 - Present"
   repo: https://github.com/madhurimalgareddy/Forecasting-demand-of-Wilkins- # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Every week, the same problem arose at the local grocery store either the shelves were emptied too quickly, leaving customers disappointed, or excess stock remained unsold, leading to waste. The question was clear—how could customer demand be predicted more accurately?.
+  summary: >
+    ![forecasting](images/sections/projects/wilkins_3.jpg)
+    Every week, the same problem arose at the local grocery store either the shelves were emptied too quickly, leaving customers disappointed, or excess stock remained unsold, leading to waste. The question was clear—how could customer demand be predicted more accurately?.
   tags: ["forecasting"]
 
-- name: Prediction of CLABSI in patients admitted to Texas Children Hospital
-  # logo: /images/sections/projects/tensorflow.png
+- name: Prediction of Blood stream infections in patients admitted to Texas Children Hospital
+  # logo: /images/sections/projects/doctor.jpg
   #role: Developer
   #timeline: "Jun 2018 - Present"
   repo: https://github.com/madhurimalgareddy/CLABSI-prediction
   #url: ""
-  summary: Central Line-Associated Bloodstream Infections (CLABSIs) are serious infections that occur when germs (bacteria or fungi) enter the bloodstream through a central line, which is a catheter placed in a large vein. Central lines are often used in hospitals to deliver medications, fluids, or nutrition, or to draw blood over an extended period. We had an opportunity to perform EDA on the patients data provided by Texas Children Hospital and further create a plan for modeling and evaluation of metrics.
+  summary: >
+    ![CLABSI](images/sections/projects/doctor.jpg)
+    Central Line-Associated Bloodstream Infections (CLABSIs) are serious infections that occur when germs (bacteria or fungi) enter the bloodstream through a central line, which is a catheter placed in a large vein. Central lines are often used in hospitals to deliver medications, fluids, or nutrition, or to draw blood over an extended period. We had an opportunity to perform EDA on the patients data provided by Texas Children Hospital and further create a plan for modeling and evaluation of metrics.
   tags: ["classification"]
 
 - name: Predicting Customer's behaviour towards purchase of vehicle insurance
-  logo: /images/sections/projects/no-code.png
+  # logo: /images/sections/projects/car_insurance_1.jpg
   #role: Nothing
   #timeline: "Oct 2019 - Dec 2019"
   repo: https://github.com/madhurimalgareddy/Prediction-of-insurance-subscription-using-Random-Forest
   #url: ""
-  summary: In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status. 
+  summary: >
+    ![Insurance Prediction](images/sections/projects/car_insurance_1.jpg)
+    In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status. 
   tags: ["classification"]
