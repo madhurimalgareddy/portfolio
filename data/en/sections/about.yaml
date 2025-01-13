@@ -8,8 +8,8 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data enthusiast
-# # your company information
+designation: Data science student
+# your company information
 # company:
 #   name: Example Co.
 #   url: "https://www.example.com"
