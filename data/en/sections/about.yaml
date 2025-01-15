@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Scientist
+designation: Data science student
 # your company information
 # company:
 #   name: Example Co.
@@ -63,7 +63,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/Resume - Madhuri Malgareddy_v4.pdf"
+  url: "files/Madhuri Resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
