@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+# designation: Data science student
 # your company information
 # company:
 #   name: Example Co.
@@ -19,7 +19,8 @@ designation: Software Engineer
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Dynamic MBA Finance professional with 2.5 years of experience as a ML Data Associate at Amazon, currently pursuing a graduate degree in Business Analytics. Passionate about leveraging analytical skills to drive business insights and aspiring to transition into roles as a Business Analyst, Data Analyst, Business Intelligence Analyst.'
+summary: 'Results-driven data professional with 2.5 years of experience as a Machine Learning Data Analyst at Amazon, complemented by an MBA in Finance. Currently pursuing a graduate degree in Business Analytics, I am passionate about leveraging analytical skills to derive actionable business insights. 
+          Aspiring to transition into impactful data roles to contribute to data-driven decision-making and organizational success'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -53,7 +54,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/Madhuri Resume.pdf"
+  url: "files/Resume - Madhuri Malgareddy.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
