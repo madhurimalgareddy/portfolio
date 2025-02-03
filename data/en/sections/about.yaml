@@ -19,8 +19,17 @@ section:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Results-driven data professional with 2.5 years of experience as a Machine Learning Data Analyst at Amazon, complemented by an MBA in Finance. Currently pursuing a graduate degree in Business Analytics, I am passionate about leveraging analytical skills to derive actionable business insights. 
-          Aspiring to transition into impactful data roles to contribute to data-driven decision-making and organizational success'
+summary: "Results-driven data professional with 2.5 years of experience as a Machine Learning Data Analyst at Amazon, complemented by an MBA in Finance. Currently pursuing a graduate degree in Business Analytics, I am passionate about leveraging analytical skills to derive actionable business insights. 
+          Aspiring to transition into impactful data roles to contribute to data-driven decision-making and organizational success  <br>  
+         <br>
+
+         #### Education <br>
+
+          **Masters in Business Analytics,    2025** ;        *C.T Bauer College of Business, University of Houston*  <br>
+          **MBA in Finance** ;       *Osmania University, India* <br>
+          **Bachelors in Business** ;        *Osmania University, India* <br>
+
+          "
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
