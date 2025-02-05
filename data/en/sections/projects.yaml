@@ -29,7 +29,12 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: >
     ![forecasting](images/sections/projects/nyc_2.jpg)
-    This project involves processing and analyzing NYC Taxi data to gain insights into ride patterns, passenger behavior, and geographic trends. The processed data is visualized in an interactive Tableau dashboard to help users draw actionable conclusions. The workflow integrates data orchestration, transformation, and visualization layers, emphasizing scalability and automation.
+    This project involves processing and analyzing NYC Taxi data to gain insights into ride patterns, passenger behavior, and geographic trends. The processed data is visualized in an interactive Looker dashboard to help users draw actionable conclusions. <br>
+    <br>
+    Output: The workflow integrates data orchestration, transformation, and visualization layers, emphasizing scalability and automation.
+    
+    
+
   tags: ["data_viz"]
 
 - name: Customer Demand Forecasting
@@ -40,7 +45,10 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: >
     ![forecasting](images/sections/projects/wilkins_3.jpg)
-    Every week, the same problem arose at the local grocery store either the shelves were emptied too quickly, leaving customers disappointed, or excess stock remained unsold, leading to waste. The question was clear—how could customer demand be predicted more accurately?.
+    Every week, the same problem arose at the local grocery store either the shelves were emptied too quickly, leaving customers disappointed, or excess stock remained unsold, leading to waste. The question was clear—how could customer demand be predicted more accurately?.<br>
+    <br>
+    Output: Various forecasting techniques were used to forecast demand of Wilkin's products and achieved a MAPE of 8% with the help of exponential smoothing.
+    
   tags: ["forecasting"]
 
 - name: Prediction of Blood stream infections in patients admitted to Texas Children Hospital
@@ -51,7 +59,9 @@ projects:
   #url: ""
   summary: >
     ![CLABSI](images/sections/projects/doctor.jpg)
-    Central Line-Associated Bloodstream Infections (CLABSIs) are serious infections that occur when germs (bacteria or fungi) enter the bloodstream through a central line, which is a catheter placed in a large vein. Central lines are often used in hospitals to deliver medications, fluids, or nutrition, or to draw blood over an extended period. We had an opportunity to perform EDA on the patients data provided by Texas Children Hospital and further create a plan for modeling and evaluation of metrics.
+    Central lines are often used in hospitals to deliver medications, fluids, or nutrition, or to draw blood over an extended period. We had an opportunity to perform EDA on the patients data provided by Texas Children Hospital and further create a plan for modeling and evaluation of metrics.<br>
+    <br>
+    Output: We have increased the recall and precision by 30% just by handling data imbalance. 
   tags: ["classification"]
 
 - name: Predicting Customer's behaviour towards purchase of vehicle insurance
