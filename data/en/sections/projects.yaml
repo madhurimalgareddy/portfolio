@@ -34,7 +34,6 @@ projects:
     Output: The workflow integrates data orchestration, transformation, and visualization layers, emphasizing scalability and automation.
     
     
-
   tags: ["data_viz"]
 
 - name: Customer Demand Forecasting
@@ -74,3 +73,14 @@ projects:
     ![Insurance Prediction](images/sections/projects/car_insurance_1.jpg)
     In recent years, there has been a noticeable rise in accidents involving vehicles, emphasizing the importance of subscribing to insurance plans that provide financial security during such events. This project focuses on predicting customer behavior regarding insurance subscription by analyzing historical data, including past accidents, vehicle lifespan, income levels, and family status. 
   tags: ["classification"]
+
+- name: Airline Passenger Analysis
+  # logo: /images/sections/projects/car_insurance_1.jpg
+  #role: Nothing
+  #timeline: "Oct 2019 - Dec 2019"
+  repo: https://github.com/madhurimalgareddy/Airline-Passenger-Analysis/tree/main
+  #url: ""
+  summary: >
+    ![Airline Passenger Analysis](images\sections\projects\british_airways.avif)
+    This Tableau dashboard provides key insights into British Airlines' performance, including passenger trends, revenue analysis, operational efficiency, and customer satisfaction metrics.   
+  tags: ["data_viz"]
